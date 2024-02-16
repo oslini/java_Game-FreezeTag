@@ -17,4 +17,3 @@ In part two we will add a new feature to the game. When a moving rectangle colli
 
 
 
-FINAL GRADE: 100% (100/100)
